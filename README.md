@@ -39,7 +39,7 @@ This project provides valuable insights into AtliQ Grand's operations and custom
 ## How to Run
 1. Clone the repository: 
    ```bash
-   git clone [repository link]
+   git clone https://github.com/sreevignesh05/AtliQ-Grand-Data-Analysis-Project
    ```
 2. Install necessary packages:
    ```bash
